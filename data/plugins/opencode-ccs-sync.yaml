@@ -1,0 +1,4 @@
+name: OpenCode CCS Sync
+repo: https://github.com/JasonLandbridge/opencode-ccs-sync
+tagline: CCS to OpenCode sync
+description: An OpenCode plugin that reads your Claude Code Switch (CCS) configuration and automatically syncs the providers into your OpenCode config.
