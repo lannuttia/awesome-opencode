@@ -300,6 +300,24 @@
     "tags": []
   },
   {
+    "productId": "kibi-opencode",
+    "type": "plugins",
+    "displayName": "kibi-opencode",
+    "repoUrl": "https://github.com/Looted/kibi",
+    "tagline": "Repo-local, branch-scoped knowledge and traceability for OpenCode",
+    "description": "Plugin-first entry point into the Kibi stack for OpenCode users. It adds context-aware\nguidance, routes durable code comments toward Kibi artifacts, runs non-blocking background\nsync and targeted validation checks, and helps keep repo knowledge branch-local and queryable.\n",
+    "scope": [
+      "project"
+    ],
+    "tags": [
+      "opencode",
+      "plugin",
+      "mcp",
+      "traceability"
+    ],
+    "installation": "## Install\nAdd the plugin to your project `opencode.json`:\n\n```json\n{\n  \"$schema\": \"https://opencode.ai/config.json\",\n  \"plugin\": [\"kibi-opencode\"]\n}\n```\n\nOpenCode installs npm plugins declared in `plugin` automatically at startup.\n\nAfter startup, run `/init-kibi` in the repository to bootstrap the Kibi knowledge base.\n"
+  },
+  {
     "productId": "kilo-auth",
     "type": "plugins",
     "displayName": "Kilo Gateway Auth",
@@ -1336,6 +1354,18 @@
     "repoUrl": "https://github.com/stacklok/brood-box",
     "tagline": "Hardware-isolated microVMs for coding agents",
     "description": "Run AI coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
+    "productId": "bx",
+    "type": "projects",
+    "displayName": "bx",
+    "repoUrl": "https://github.com/holtwick/bx-mac",
+    "tagline": "macOS file-system sandbox for AI coding agents",
+    "description": "Launch OpenCode, VSCode, Claude Code, or any command in a macOS sandbox (sandbox-exec). Dynamically blocks access to everything except the project directory — no containers, no VMs, just one command.",
     "scope": [
       "global"
     ],

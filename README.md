@@ -260,6 +260,18 @@
 </details>
 
 <details>
+  <summary><b>kibi-opencode</b> <img src="https://badgen.net/github/stars/Looted/kibi" height="14"/> - <i>Repo-local, branch-scoped knowledge and traceability for OpenCode</i></summary>
+  <blockquote>
+    Plugin-first entry point into the Kibi stack for OpenCode users. It adds context-aware
+guidance, routes durable code comments toward Kibi artifacts, runs non-blocking background
+sync and targeted validation checks, and helps keep repo knowledge branch-local and queryable.
+
+    <br><br>
+    <a href="https://github.com/Looted/kibi">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Kilo Gateway Auth</b> <img src="https://badgen.net/github/stars/JungHoonGhae/opencode-kilo-auth" height="14"/> - <i>Kilo Gateway provider</i></summary>
   <blockquote>
     Adds Kilo Gateway provider support to OpenCode.
@@ -1146,6 +1158,15 @@ Also available for bat and Ghostty in the same repository.
     Run AI coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization.
     <br><br>
     <a href="https://github.com/stacklok/brood-box">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>bx</b> <img src="https://badgen.net/github/stars/holtwick/bx-mac" height="14"/> - <i>macOS file-system sandbox for AI coding agents</i></summary>
+  <blockquote>
+    Launch OpenCode, VSCode, Claude Code, or any command in a macOS sandbox (sandbox-exec). Dynamically blocks access to everything except the project directory — no containers, no VMs, just one command.
+    <br><br>
+    <a href="https://github.com/holtwick/bx-mac">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
