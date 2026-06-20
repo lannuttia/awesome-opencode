@@ -1318,6 +1318,15 @@ Also available for bat and Ghostty in the same repository.
 </details>
 
 <details>
+  <summary><b>Unship</b> <img src="https://badgen.net/github/stars/mbenhard/unship" height="14"/> - <i>Compare AI-made UI variants locally</i></summary>
+  <blockquote>
+    Local CLI and browser picker for comparing temporary UI variants created by coding agents like OpenCode, then keeping one and cleaning up the rest.
+    <br><br>
+    <a href="https://github.com/mbenhard/unship">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Vibe Kanban</b> <img src="https://badgen.net/github/stars/BloopAI/vibe-kanban" height="14"/> - <i>Manage AI in parallel</i></summary>
   <blockquote>
     A Kanban board to manage and orchestrate AI coding agents in parallel.
@@ -1344,6 +1353,15 @@ Also available for bat and Ghostty in the same repository.
     A local-first, markdown-first `.akephalos` passport for portable agent preferences, tool notes, rules, project context, and durable memories. It uses plain files and Git so MCP-capable coding-agent workflows can inspect and carry context across tools and machines without hosted sync.
     <br><br>
     <a href="https://github.com/sunnja69/akephalos">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Coding Agent Orchestration</b> <img src="https://badgen.net/github/stars/evermeer/CodingAgentOrchestration" height="14"/> - <i>OpenCode Setup Guide / Orchestration</i></summary>
+  <blockquote>
+    An opinionated but practical handbook that argues for treating AI coding tools as a composable, multi-agent system rather than a single assistant, and then walks through how to implement that mindset using OpenCode's CLI, configuration system, and ecosystem (agents, tools, skills, and plugins).
+    <br><br>
+    <a href="https://github.com/evermeer/CodingAgentOrchestration">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 

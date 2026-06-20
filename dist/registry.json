@@ -1590,6 +1590,18 @@
     ]
   },
   {
+    "productId": "unship",
+    "type": "projects",
+    "displayName": "Unship",
+    "repoUrl": "https://github.com/mbenhard/unship",
+    "tagline": "Compare AI-made UI variants locally",
+    "description": "Local CLI and browser picker for comparing temporary UI variants created by coding agents like OpenCode, then keeping one and cleaning up the rest.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
     "productId": "vibe-kanban",
     "type": "projects",
     "displayName": "Vibe Kanban",
@@ -1618,6 +1630,18 @@
       "local-first",
       "markdown"
     ]
+  },
+  {
+    "productId": "coding-agent-orchestration",
+    "type": "resources",
+    "displayName": "Coding Agent Orchestration",
+    "repoUrl": "https://github.com/evermeer/CodingAgentOrchestration",
+    "tagline": "OpenCode Setup Guide / Orchestration",
+    "description": "An opinionated but practical handbook that argues for treating AI coding tools as a composable, multi-agent system rather than a single assistant, and then walks through how to implement that mindset using OpenCode's CLI, configuration system, and ecosystem (agents, tools, skills, and plugins).",
+    "scope": [
+      "global"
+    ],
+    "tags": []
   },
   {
     "productId": "debug-log-to-text-file",
