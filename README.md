@@ -404,6 +404,15 @@
 </details>
 
 <details>
+  <summary><b>OpenCode Provider Alias</b> <img src="https://badgen.net/github/stars/baranwang/opencode-provider-alias" height="14"/> - <i>Alias and curate OpenCode providers with model metadata from models.dev.</i></summary>
+  <blockquote>
+    Lets users define local OpenCode provider and model aliases hydrated from existing models.dev metadata.
+    <br><br>
+    <a href="https://github.com/baranwang/opencode-provider-alias">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Opencode Quota</b> <img src="https://badgen.net/github/stars/slkiser/opencode-quota" height="14"/> - <i>Quota toasts and token tracking</i></summary>
   <blockquote>
     Track quota and token usage across providers via automatic toasts and slash commands.
@@ -427,15 +436,6 @@
     Session management plugin for OpenCode with multi-agent collaboration support.
     <br><br>
     <a href="https://github.com/malhashemi/opencode-sessions">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Opencode Skills</b> <img src="https://badgen.net/github/stars/malhashemi/opencode-skills" height="14"/> - <i>Manage skills and capabilities</i></summary>
-  <blockquote>
-    Plugin for managing and organising opencode skills and capabilities.
-    <br><br>
-    <a href="https://github.com/malhashemi/opencode-skills">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 

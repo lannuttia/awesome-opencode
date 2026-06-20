@@ -590,6 +590,18 @@
     "tags": []
   },
   {
+    "productId": "opencode-provider-alias",
+    "type": "plugins",
+    "displayName": "OpenCode Provider Alias",
+    "repoUrl": "https://github.com/baranwang/opencode-provider-alias",
+    "tagline": "Alias and curate OpenCode providers with model metadata from models.dev.",
+    "description": "Lets users define local OpenCode provider and model aliases hydrated from existing models.dev metadata.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
     "productId": "opencode-quota",
     "type": "plugins",
     "displayName": "Opencode Quota",
@@ -632,18 +644,6 @@
     "repoUrl": "https://github.com/malhashemi/opencode-sessions",
     "tagline": "Session management",
     "description": "Session management plugin for OpenCode with multi-agent collaboration support.",
-    "scope": [
-      "global"
-    ],
-    "tags": []
-  },
-  {
-    "productId": "opencode-skills",
-    "type": "plugins",
-    "displayName": "Opencode Skills",
-    "repoUrl": "https://github.com/malhashemi/opencode-skills",
-    "tagline": "Manage skills and capabilities",
-    "description": "Plugin for managing and organising opencode skills and capabilities.",
     "scope": [
       "global"
     ],
