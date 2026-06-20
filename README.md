@@ -386,6 +386,15 @@
 </details>
 
 <details>
+  <summary><b>Opencode Hooks Plugin</b> <img src="https://badgen.net/github/stars/romain325/opencode-hooks-plugin" height="14"/> - <i>Claude code compatible hooks</i></summary>
+  <blockquote>
+    Use Claude code hooks definition and hook them to opencode hooks.
+    <br><br>
+    <a href="https://github.com/romain325/opencode-hooks-plugin">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Opencode Host Notify Bridge</b> <img src="https://badgen.net/github/stars/Zaradacht/opencode-host-notify-bridge" height="14"/> - <i>Devcontainer notifications bridged back to the host</i></summary>
   <blockquote>
     OpenCode plugin and host helper that forward permission, question, and idle notifications from devcontainers to the host machine for desktop alerts and sound.
@@ -1125,6 +1134,15 @@ Also available for bat and Ghostty in the same repository.
     A native policy-layer for AI coding agents built on OPA/Rego with native OpenCode plugin support.
     <br><br>
     <a href="https://github.com/eqtylab/cupcake">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Deck</b> <img src="https://badgen.net/github/stars/cofy-x/deck" height="14"/> - <i>Local cockpit for OpenCode-powered autonomous agents with secure sandboxes and live desktop visibility.</i></summary>
+  <blockquote>
+    Open-source desktop cockpit that runs OpenCode-integrated agents in isolated Docker sandboxes with chat plus live noVNC desktop monitoring, tool permission controls, and a Pilot bridge suite for orchestrating agents from Telegram, Slack, WhatsApp, and more.
+    <br><br>
+    <a href="https://github.com/cofy-x/deck">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 

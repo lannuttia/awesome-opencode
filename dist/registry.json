@@ -523,6 +523,18 @@
     "tags": []
   },
   {
+    "productId": "opencode-hooks-plugin",
+    "type": "plugins",
+    "displayName": "Opencode Hooks Plugin",
+    "repoUrl": "https://github.com/romain325/opencode-hooks-plugin",
+    "tagline": "Claude code compatible hooks",
+    "description": "Use Claude code hooks definition and hook them to opencode hooks.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
     "productId": "opencode-host-notify-bridge",
     "type": "plugins",
     "displayName": "Opencode Host Notify Bridge",
@@ -1316,6 +1328,19 @@
       "global"
     ],
     "tags": []
+  },
+  {
+    "productId": "deck",
+    "type": "projects",
+    "displayName": "Deck",
+    "repoUrl": "https://github.com/cofy-x/deck",
+    "tagline": "Local cockpit for OpenCode-powered autonomous agents with secure sandboxes and live desktop visibility.",
+    "description": "Open-source desktop cockpit that runs OpenCode-integrated agents in isolated Docker sandboxes with chat plus live noVNC desktop monitoring, tool permission controls, and a Pilot bridge suite for orchestrating agents from Telegram, Slack, WhatsApp, and more.",
+    "scope": [
+      "global"
+    ],
+    "tags": [],
+    "homepageUrl": "https://deck.cofy-x.space"
   },
   {
     "productId": "gemini-cli-to-api",
