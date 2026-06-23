@@ -152,6 +152,15 @@
 </details>
 
 <details>
+  <summary><b>BRHP</b> <img src="https://badgen.net/github/stars/ZanzyTHEbar/brhp" height="14"/> - <i>Persistent planning state</i></summary>
+  <blockquote>
+    Structured, persistent planning for OpenCode with local session state, /brhp commands, bounded planner history, and a TUI sidebar.
+    <br><br>
+    <a href="https://github.com/ZanzyTHEbar/brhp">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>CC Safety Net</b> <img src="https://badgen.net/github/stars/kenryu42/claude-code-safety-net" height="14"/> - <i>Safety net catching destructive commands</i></summary>
   <blockquote>
     A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
@@ -184,6 +193,15 @@
     An opencode plugin that provides detailed token usage analysis for your AI sessions.
     <br><br>
     <a href="https://github.com/IgorWarzocha/Opencode-Context-Analysis-Plugin">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>CrewBee</b> <img src="https://badgen.net/github/stars/CrewBeeLab/CrewBee" height="14"/> - <i>Task-specific Agent Teams for OpenCode</i></summary>
+  <blockquote>
+    CrewBee is an independent Agent Team framework for OpenCode. It lets users define reusable task/project-specific Agent Teams, project them into OpenCode agents, and switch between single-agent execution and multi-agent collaboration based on task complexity. It also includes built-in Team templates such as a Coding Team with review flow and completion criteria.
+    <br><br>
+    <a href="https://github.com/CrewBeeLab/CrewBee">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
@@ -283,6 +301,15 @@
     Auto-captures evidence from tool interactions and materializes memories through a multi-gate pipeline. 4-layer activation engine selects the right memories per context. Replaces CLAUDE.md with structured, searchable, reviewable project memory. Local-first (sql.js WASM), zero cloud dependency.
     <br><br>
     <a href="https://github.com/smc2315/harness-memory">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>hiai-opencode</b> <img src="https://badgen.net/github/stars/HiAi-gg/hiai-opencode" height="14"/> - <i>Canonical 12-agent model with bundled skills, MCP, LSP, and ralph-loop</i></summary>
+  <blockquote>
+    Unified plugin shipping 10 visible agents (Bob, Coder, Strategist, Critic, Guard, Researcher, Designer, Manager, Brainstormer, Vision) plus hidden Sub and Agent Skills. Bundles MCP wiring (playwright, stitch, sequential-thinking, firecrawl, rag, mempalace, context7, websearch, grep_app), LSP, skill materialization, and a multi-layer continuation system (todo enforcer, ralph-loop, ULTRAWORK auto-start) in one install.
+    <br><br>
+    <a href="https://github.com/HiAi-gg/hiai-opencode">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
@@ -617,6 +644,15 @@ startup.
     Instant inline text expansion for OpenCode. Type #snippet anywhere in your message and watch it transform. Brings DRY principles to prompt engineering with composable, shell-enabled snippets.
     <br><br>
     <a href="https://github.com/JosXa/opencode-snippets">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>OpenCode Swarm</b> <img src="https://badgen.net/github/stars/zaxbysauce/opencode-swarm" height="14"/> - <i>Verification-gated swarm with architect, review, test, and security agents</i></summary>
+  <blockquote>
+    Verification-gated OpenCode swarm with architect planning, independent review, test engineering, security checks, and resumable evidence.
+    <br><br>
+    <a href="https://github.com/zaxbysauce/opencode-swarm">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
@@ -1625,6 +1661,15 @@ Also available for bat and Ghostty in the same repository.
     An OpenAI-Compatible Proxy Server for Qwen models.
     <br><br>
     <a href="https://github.com/aptdnfapt/qwen-code-oai-proxy">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>supamem</b> <img src="https://badgen.net/github/stars/dzmitrys-dev/supamem" height="14"/> - <i>Project-agnostic dual-memory MCP CLI for OpenCode</i></summary>
+  <blockquote>
+    Adds semantic memory (Qdrant tuned hybrid retrieval — RRF fusion of dense MiniLM + sparse BM25) and structural memory hooks to OpenCode via MCP. Ships an installer that wires `qdrant-find` / `qdrant-store` tools and a snapshot hook into your project's OpenCode config. Python 3.12+, MIT, on PyPI as `supamem`.
+    <br><br>
+    <a href="https://github.com/dzmitrys-dev/supamem/">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
